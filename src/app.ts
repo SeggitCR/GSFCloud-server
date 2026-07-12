@@ -1,6 +1,6 @@
-import express, { Application } from 'express';
+import express, { Express } from 'express';
 
-const app: Application = express();
+const app = express();
 
 app.use(express.json());
 
