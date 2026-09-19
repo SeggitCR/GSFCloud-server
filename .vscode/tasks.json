@@ -15,9 +15,12 @@
             },
             "problemMatcher": [
                 "$tsc"
-            ]
-        },
+            ],
+            "presentation": {
+                "reveal": "always",
+                "panel": "shared",
+                "focus": true
+            }
+        }
     ]
 }
-
-
